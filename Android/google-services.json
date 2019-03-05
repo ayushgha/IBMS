@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "843322809766",
+    "firebase_url": "https://doit-142a6.firebaseio.com",
+    "project_id": "doit-142a6",
+    "storage_bucket": "doit-142a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843322809766:android:5f200e927a24fc25",
+        "android_client_info": {
+          "package_name": "com.beanfactory.yp.ibms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843322809766-26a4o9d7p0fpuipmf1utlpim31j887tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE5wW2kxJ89CHT8KcRJCrIyDfZZUPo7Sw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
